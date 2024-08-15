@@ -13,5 +13,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=atolix&theme=github_dark&show_icons=ture" />
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atolix&theme=github_dark)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=atolix&theme=darkhub&column=7&title=-Stars,-Followers
 )](https://github.com/ryo-ma/github-profile-trophy)
