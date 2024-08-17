@@ -1,5 +1,8 @@
 > Web Backend Developer*✹⊹
-<p><a href="https://www.x.com/atolix_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<p>
+  <a href="https://www.x.com/atolix_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://processed.pages.dev/"><img src="https://img.shields.io/badge/blog-white?style=for-the-badge" height=25></a>
+</p>
 
 ## Tech Stack
 
