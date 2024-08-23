@@ -6,7 +6,7 @@
 
 ## Tech Stack
 
-- Lang: Ruby, Go, Typescript
+- Lang: Ruby, Typescript
 - Framework: Rails, Next.js
 - Tools: AWS, Terraform, Datadog
 
