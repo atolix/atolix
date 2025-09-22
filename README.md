@@ -19,7 +19,10 @@
 
 ## Status
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atolix&layout=compact&show_icons=true&theme=github_dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=atolix&theme=github_dark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atolix&layout=compact&show_icons=true&theme=transparent" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=atolix&theme=transparent&rank_icon=github" />
 </p>
 
+<img alt="github graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atolix&theme=transparent" />
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=atolix&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
