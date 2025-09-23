@@ -1,9 +1,10 @@
-> Web Developer*✹⊹
+<h3>Web Developer*✹⊹</h3>
+  
 <p>
   <a href="https://www.x.com/atolix_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 </p>
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -17,7 +18,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23774AA4.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-## Status
+<h2>GitHub Stats</h2>
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atolix&layout=compact&show_icons=true&theme=transparent" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=atolix&theme=transparent&rank_icon=github" />
