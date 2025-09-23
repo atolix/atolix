@@ -1,7 +1,10 @@
-<h3>Web Developer*✹⊹</h3>
-  
+>Web Developer*✹⊹
+
+<h2>Links</h2>
 <p>
-  <a href="https://www.x.com/atolix_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://processed-atolix.vercel.app/"><img src="https://img.shields.io/badge/blog-%23FFFFFF.svg?&style=for-the-badge"></a>
+  <a href="https://www.x.com/atolix_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge"></a>
+  <a href="https://github.com/atolix"><img src="https://img.shields.io/badge/github-%23111111.svg?&style=for-the-badge"></a>
 </p>
 
 <h2>Tech Stack</h2>
