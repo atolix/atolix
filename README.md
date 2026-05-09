@@ -7,4 +7,6 @@
 <a href="https://github.com/atolix/github-readme-stats">
   <img align="left" height="150px" src="https://github-readme-stats-wine-seven-68.vercel.app/api?username=atolix&theme=transparent&rank_icon=github&hide=star" />
 </a> -->
-<img alt="github graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atolix&theme=transparent" />
+
+![Language canvas](https://langflux.atolix.workers.dev/profile.svg?username=atolix)
+<!-- <img alt="github graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atolix&theme=transparent" /> -->
