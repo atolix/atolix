@@ -8,5 +8,10 @@
   <img align="left" height="150px" src="https://github-readme-stats-wine-seven-68.vercel.app/api?username=atolix&theme=transparent&rank_icon=github&hide=star" />
 </a> -->
 
-![Language canvas](https://langflux.atolix.workers.dev/profile.svg?username=atolix)
+<img
+  src="https://langflux.atolix.workers.dev/profile.svg?username=atolix"
+  width="620"
+  alt="Language canvas"
+/>
+  
 <!-- <img alt="github graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atolix&theme=transparent" /> -->
