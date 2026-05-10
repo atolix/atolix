@@ -10,7 +10,7 @@
   
 <!-- <img alt="github graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atolix&theme=transparent" /> -->
 <a href="https://atolix-sh.pages.dev">
-  <img width="1230" height="553" alt=" 2026-05-10 20 34 28" src="https://github.com/user-attachments/assets/4e9fe6ea-3a70-414d-af5e-08b2567b4849" />
+  <img width="1230" height="554" alt=" 2026-05-10 20 35 33" src="https://github.com/user-attachments/assets/3a11bef8-c803-401e-a638-12ec0e0c4b74" />
 </a>
 
 <img
