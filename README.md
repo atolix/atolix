@@ -15,3 +15,6 @@
 />
   
 <!-- <img alt="github graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atolix&theme=transparent" /> -->
+<a href="https://atolix-sh.pages.dev">
+  <img width="1235" height="554" alt=" 2026-05-10 20 23 50" src="https://github.com/user-attachments/assets/811b9a43-7d7b-462e-8d4a-fa5746d28e7c" />
+</a>
