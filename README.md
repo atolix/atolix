@@ -1,4 +1,4 @@
->Web Developer*✹⊹
+*✹⊹
 
 <!-- <h2>GitHub Stats</h2> -->
 <!-- <a href="https://github.com/atolix/github-readme-stats">
