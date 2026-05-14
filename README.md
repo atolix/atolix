@@ -1,7 +1,7 @@
 <!-- *✹⊹ -->
 
 <a href="https://atolix-sh.pages.dev">
- <img width="1228" height="551" alt=" 2026-05-11 20 10 27" src="https://github.com/user-attachments/assets/266fd1c7-185d-49a9-9669-3f78ec722093" />
+ <img width="1231" height="551" alt=" 2026-05-14 18 51 21" src="https://github.com/user-attachments/assets/e152c20c-fb1b-4eb3-b6c6-513a8cc14a77" />
 </a>
 
 <img
