@@ -5,7 +5,7 @@
 </a> -->
 
 <img
-  src="https://langflux.atolix.workers.dev/profile.svg?username=atolix"
+  src="https://langflux.atolix.workers.dev/profile.svg?username=atolix&full"
   width="520"
   alt="Language canvas"
 />
